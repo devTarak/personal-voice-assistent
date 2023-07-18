@@ -53,7 +53,7 @@ The voice assistant relies on internet connectivity for certain functionalities,
 ## Acknowledgments
 We would like to express our gratitude to the developers of the libraries and tools used in this project. Their contributions have been instrumental in creating this personal voice assistant.
 ## Developer
-This personal voice assistant program was developed by <a href="https://devtarak.github.io" target="_blank">Tarak Rahman</a>.
+<p>This personal voice assistant program was developed by <a href="https://devtarak.github.io" target="_blank">Tarak Rahman</a>.</p>
 ## Contributing
 Contributions to this project are highly appreciated. If you have any ideas or improvements, please submit a pull request or open an issue to discuss potential enhancements.
 ## License
