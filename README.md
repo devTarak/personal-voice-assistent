@@ -25,7 +25,8 @@ Before getting started, ensure that you have the following prerequisites:
 - [wikipedia](https://pypi.org/project/wikipedia/) (Access Wikipedia articles)
 - [pyjokes](https://pypi.org/project/pyjokes/) (Retrieve random jokes)
 - [speech_recognition](https://pypi.org/project/SpeechRecognition/) (Speech recognition)
-
+## Presentation Video
+https://github.com/devTarak/personal-voice-assistent/assets/101055758/3d1f51d3-fee6-49dd-bd9d-45adbf8f1ab4
 ## Usage
 
 1. Clone the repository:
