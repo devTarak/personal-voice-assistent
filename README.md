@@ -58,5 +58,4 @@ This personal voice assistant program was developed by <a href="https://devtarak
 Contributions to this project are highly appreciated. If you have any ideas or improvements, please submit a pull request or open an issue to discuss potential enhancements.
 ## License
 <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-
-Feel free to modify the content according to your project's specific details and requirements.
+ 
