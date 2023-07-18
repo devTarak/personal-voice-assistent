@@ -9,6 +9,12 @@ A sophisticated personal voice assistant project that enables users to interact 
 - Retrieve accurate and up-to-date information from Wikipedia
 - Obtain the current time effortlessly
 - Enjoy a delightful collection of random jokes
+## Prerequisites
+
+Before getting started, ensure that you have the following prerequisites:
+
+- Python installed on your system
+- Internet connectivity for accessing online services
 
 ## Technologies Utilized
 
@@ -40,6 +46,12 @@ python main.py
 You: "Play the song Hello by Adele"
 Assistant: "Playing Hello by Adele"
 ```
+## Customization
+You can customize the voice assistant to fit your preferences by modifying the code. Feel free to explore the code and adapt it to add new features or adjust the existing behavior.
+## Limitations
+The voice assistant relies on internet connectivity for certain functionalities, such as retrieving information from Wikipedia or playing songs from online platforms. Make sure you have a stable internet connection for optimal performance.
+## Acknowledgments
+We would like to express our gratitude to the developers of the libraries and tools used in this project. Their contributions have been instrumental in creating this personal voice assistant.
 ## Contributing
 Contributions to this project are highly appreciated. If you have any ideas or improvements, please submit a pull request or open an issue to discuss potential enhancements.
 ## License
