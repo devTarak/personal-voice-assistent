@@ -32,7 +32,7 @@ https://github.com/devTarak/personal-voice-assistent/assets/101055758/3d1f51d3-f
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/personal-voice-assistant.git
+git clone https://github.com/devTarak/personal-voice-assistant.git
 ```
 2. Install the required dependencies from the <b>'requirements.txt'</b> file:
 ```shell
@@ -44,8 +44,8 @@ python main.py
 ```
 4. Interact with the voice assistant by speaking commands. For example:
 ```shell
-You: "Play the song Hello by Adele"
-Assistant: "Playing Hello by Adele"
+You: "Play the song Ek din ap from yesboss"
+Assistant: "Playing Ek din ap from yesboss"
 ```
 ## Customization
 You can customize the voice assistant to fit your preferences by modifying the code. Feel free to explore the code and adapt it to add new features or adjust the existing behavior.
